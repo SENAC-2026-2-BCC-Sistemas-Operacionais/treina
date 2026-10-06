@@ -14,3 +14,4 @@
   - sua chave pública em formato binário
 - Criptografe seu tarball (arquivo tar.gz) com minha chave pública
 - Submeta seu código via Pull Request assinado
+
